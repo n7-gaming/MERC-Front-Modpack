@@ -1,0 +1,131 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+com.boehmod.blockfront.ce {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+net.minecraft.client.gui.screens.options.OptionsScreen {
+}
+
+com.boehmod.blockfront.cn {
+}
+
+net.minecraft.client.gui.screens.options.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.options.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.telemetry.TelemetryInfoScreen {
+}
+
+net.minecraft.client.gui.screens.packs.PackSelectionScreen {
+}
+
+net.minecraft.client.gui.screens.options.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.options.SkinCustomizationScreen {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.GenericMessageScreen {
+}
+
+net.minecraft.client.gui.screens.ProgressScreen {
+}
+
+net.minecraft.client.gui.screens.ConnectScreen {
+}
+
+net.minecraft.client.gui.screens.ReceivingLevelScreen {
+}
+
+net.minecraft.client.gui.screens.options.OnlineOptionsScreen {
+}
+
+com.boehmod.blockfront.dz {
+}
+
+com.boehmod.blockfront.cy {
+}
+
+com.boehmod.blockfront.cR {
+}
+
+com.boehmod.blockfront.aT {
+}
+
+com.boehmod.blockfront.cK {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.options.VideoSettingsScreen {
+}
+
+net.minecraft.client.gui.screens.options.MouseSettingsScreen {
+}
+
+com.blamejared.controlling.client.NewKeyBindsScreen {
+}
+
+net.minecraft.client.gui.screens.ConfirmLinkScreen {
+}
+
+net.minecraft.client.gui.screens.WinScreen {
+}
+
+net.minecraft.client.gui.screens.DisconnectedScreen {
+}
+
+net.minecraft.client.multiplayer.ClientCommonPacketListenerImpl$PackConfirmScreen {
+}
+
+net.minecraft.client.gui.screens.ConfirmScreen {
+}
+
+red.vuis.frontutil.client.screen.ForcedTitleScreen {
+}
+
+com.boehmod.blockfront.cZ {
+}
+
+com.boehmod.blockfront.dq {
+}
+
+com.boehmod.blockfront.dc {
+}
+
+com.boehmod.blockfront.dL {
+}
+
+net.minecraft.client.gui.screens.multiplayer.SafetyScreen {
+}
+
+com.boehmod.blockfront.cU {
+}
+
