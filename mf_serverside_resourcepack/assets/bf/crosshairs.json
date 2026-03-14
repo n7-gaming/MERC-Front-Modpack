@@ -1,0 +1,10 @@
+[
+  {
+    "name": "n7",
+    "top": "bf:textures/crosshairs/n7/top.png",
+    "bottom": "bf:textures/crosshairs/n7/bottom.png",
+    "left": "bf:textures/crosshairs/n7/left.png",
+    "right": "bf:textures/crosshairs/n7/right.png",
+    "middle": "bf:textures/crosshairs/n7/middle.png"
+  }
+]
